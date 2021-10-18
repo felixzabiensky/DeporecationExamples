@@ -1,7 +1,8 @@
 interface UserInfo{
     name: string;
-    /** @deprecated use gender field instead */
+    /** @deprecated use location field instead */
     address: string;
+    location: string;
 }
 
 declare const userInfo: UserInfo;

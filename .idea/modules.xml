@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaDeprecation.iml" filepath="$PROJECT_DIR$/.idea/JavaDeprecation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VariousDeprecationExamples.iml" filepath="$PROJECT_DIR$/.idea/VariousDeprecationExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/de.uni.hamburg/de.uni.hamburg.iml" filepath="$PROJECT_DIR$/de.uni.hamburg/de.uni.hamburg.iml" />
     </modules>
   </component>
